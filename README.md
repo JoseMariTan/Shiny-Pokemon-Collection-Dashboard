@@ -21,3 +21,6 @@ Skills Demonstrated
 - Pivot tables and charts in Excel
 - Trend analysis and visualization
 - Comparative analysis across multiple game versions
+
+Dashboard Preview
+<img width="1362" height="752" alt="Shiny Pokemon Collection Dashboard" src="https://github.com/user-attachments/assets/a41b380c-6c32-45b1-807e-15d63f1673d6" />
